@@ -108,3 +108,12 @@ Enter administrator credentials and select ok.
 Congratulations! The PC client has now connected to the DC!
 
 ![img](https://i.imgur.com/aNDlG54.png)
+
+# Conclusion 
+
+In this lab, I learned how to connect two virtual machines. I set up a Domain Controller using Server Manager 2019 and Active Directory, which helps manage users and computers on a network. I also configured a DHCP server with NAT/RAS routing, which assigns IP addresses to devices on the network. Through this process, I practiced setting up user accounts in Active Directory. Finally, I connected a client computer to the Domain Controller that was created.
+This lab showed me the importance of understanding basic networking concepts when working with Domain Controllers. By going through these steps, I gained a better understanding of what it takes to set up and manage a Domain Controller in a real-world network environment.
+
+
+
+
