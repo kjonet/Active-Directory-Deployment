@@ -100,3 +100,11 @@ Before joining the client PC to the domain, let's check to see if the network co
 ![img](https://i.imgur.com/YyUUlPG.png)
 
 Head over to <b>Settings</b> and then <b>About</b>. Scroll down to the option <b> Rename this PC (advanced)</b>. This is where we'll rename the PC and join it to the domain. 
+
+![img](https://i.imgur.com/inlaiwM.png)
+
+Enter administrator credentials and select ok. 
+
+Congratulations! The PC client has now connected to the DC!
+
+![img](https://i.imgur.com/aNDlG54.png)
